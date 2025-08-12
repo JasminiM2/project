@@ -2,9 +2,9 @@
 
 - *Team Name*: creative coders
 - *Members & Roles*:
-  - JASMINI
-  - MEGHAMALA
-  - VARALAKSHMI
-  - JAHNAVI
-  - CHANDRIKA
+  - JASMINI-DEVELOPER
+  - MEGHAMALA-DEVELOPER
+  - VARALAKSHMI-DESIGNER
+  - JAHNAVI-DESIGNER
+  - CHANDRIKA-DESIGNER
 - *Poster Tool Used*: Canva 
